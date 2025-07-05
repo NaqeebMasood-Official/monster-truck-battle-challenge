@@ -9,7 +9,7 @@ An action-packed 3D open-world monster truck combat game featuring multiple AI o
 - **Physics Engine**: Realistic vehicle physics and movement
 - **Power-ups & Scoring**: Lives system and scoring mechanics
 - **Destructible Environments**: Multi-level terrain with destructible elements
-- **Cross-Platform**: Optimized performance across multiple platforms
+- **Cross-Platform**: Optimized performance for mobile devices
 
 ## 🎯 Game Modes
 - Open-world exploration
@@ -17,14 +17,15 @@ An action-packed 3D open-world monster truck combat game featuring multiple AI o
 - Combat battles against AI
 
 ## 🔗 Game Links
-- **Download/Play**: [Add your game link here]
-- **Trailer**: [Add trailer link if available]
-- **Screenshots**: [Add screenshot links]
+- **Google Play Store**: [https://play.google.com/store/apps/details?id=com.themarkhorgames.monster.truck.battle]  
 
 ## 🛠️ Technologies Used
-- [Add your game engine/technologies]
-- [Add programming languages]
-- [Add platforms]
+- **Game Engine**: Unity 3D
+- **Programming Language**: C#
+- **Platform**: Android & iOS
+- **Development Tools**: Unity Editor, Visual Studio
 
 ## 📱 Platform Availability
-- [List platforms where game is available]
+- Android (Google Play Store) 
+
+ 
